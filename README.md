@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Ngo Minh Duc
+💻  About Me
 
+🎓   Studying Software Engineering at FPT University.
+
+🤔   I have developed a skill set in C/C++, C#, JavaScript and Java. I’m currently learning learn Node.js.
+
+✍️   I’m looking for help with more knowledge about web development.
 <!--
 **ngominhduc24/ngominhduc24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
